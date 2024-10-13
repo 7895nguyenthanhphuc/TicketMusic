@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TicketMusic
+build_property.RootNamespace = TicketMusic
+build_property.ProjectDir = D:\ah hai\7895- Nguyễn Thanh Phúc\TicketMusic\TicketMusic-master\TicketMusic\TicketMusic\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ah hai\7895- Nguyễn Thanh Phúc\TicketMusic\TicketMusic-master\TicketMusic\TicketMusic
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/AdminCategories/EditCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcQWRtaW5DYXRlZ29yaWVzXEVkaXRDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/AdminCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcQWRtaW5DYXRlZ29yaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/AdminCustomer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcQWRtaW5DdXN0b21lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/AdminDashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcQWRtaW5EYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/AdminOrders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcQWRtaW5PcmRlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/AdminProducts/EditProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcQWRtaW5Qcm9kdWN0c1xFZGl0UHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/AdminProducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcQWRtaW5Qcm9kdWN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/CategoriesTicket/CategoryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1RpY2tldFxDYXRlZ29yeURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/CategoriesTicket/_CategoryListProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1RpY2tldFxfQ2F0ZWdvcnlMaXN0UHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/DetailsTicket/DetailsProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsc1RpY2tldFxEZXRhaWxzUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/Orders/ActiveFalse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEFjdGl2ZUZhbHNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/Orders/ActiveSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEFjdGl2ZVN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/Shared/Components/FooterMain/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyTWFpblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/Shared/Components/HeaderMain/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyTWFpblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Areas/AdminTicket/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5UaWNrZXRcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-shnbmbnb5s
+
+[D:/ah hai/7895- Nguyễn Thanh Phúc/TicketMusic/TicketMusic-master/TicketMusic/TicketMusic/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1hpdxintoy
